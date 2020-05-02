@@ -1,0 +1,62 @@
+.mainbody{
+	background-color: #D2CECE;
+	margin: auto;
+	width: 500px;
+	height: 100vh; 
+	border-radius: 17px;
+
+}
+.SignIntitle{
+
+    background: #57B846;
+    padding: 50px;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+        border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+
+}
+
+.Username{
+	    text-align: center;
+    margin-top: 26;
+    margin-bottom: 18; 
+}
+.Usernamep{
+
+	border-radius: 17px;
+    padding: 11px;
+    background: #f8f0f0;
+    border: 0;
+    margin-bottom: 17;
+}
+.header{
+	background: white;
+}
+.signin{
+	background: #57B846;
+    text-align: center;
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+}
+.fp{
+	    text-align: right;
+    margin-top: 10;
+
+}
+.ugreen{
+	color: #57B846;
+}
+.acc{
+	color: grey;
+	text-align: center;
+	margin-top: 120px;
+}
+.bcc{
+	text-align: center;
+    color: darkgreen;
+    border-top: 10px;
+    margin-top: 10;
+}
